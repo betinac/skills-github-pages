@@ -1,10 +1,9 @@
 ---
-title: Welcome to Betina's portfolio
+title: Betina Perez Neder
 ---
 
-# Betina Perez Neder 
-## Lead Software Quality Assurance Engineer
+# Software Lead Quality Assurance Engineer
 
-- [**Professional Experience**][work]
+## [**Professional Experience**][work]
 
 [work]: _posts/2024-12-21-title.md
