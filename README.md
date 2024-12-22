@@ -1,4 +1,13 @@
-<header>
+# Example of a Portfolio hosted with GitHub Pages
+[Portfolio example](https://betinac.github.io/skills-github-pages) 
+
+<img src=https://github.com/user-attachments/assets/98f80774-70cc-4394-ae21-221ae92d169e alt=celebrate width=300 align=center>
+
+<img src=https://github.com/user-attachments/assets/bb2fe836-2201-47a5-b4e7-01b5ee658279 alt=celebrate width=300 align=center>
+
+---
+
+<!-- <header> -->
 
 <!--
   <<< Author notes: Course header >>>
@@ -11,8 +20,7 @@
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
-</header>
-
+<!-- </header> -->
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
@@ -41,8 +49,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
-<footer>
-
+<!-- <footer> -->
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
@@ -54,4 +61,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-</footer>
+<!-- </footer> -->
