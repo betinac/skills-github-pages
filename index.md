@@ -1,4 +1,4 @@
 ---
-title: Welcome to Betina's blog
+title: Welcome to Betina's portfolio
 ---
 
